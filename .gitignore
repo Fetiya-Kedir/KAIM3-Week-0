@@ -1,12 +1,2 @@
 .myenvi/
 data/
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore VS Code settings and configurations
-.vscode/
-
-
-
-
-
